@@ -3,7 +3,7 @@ Hello stranger!
 
 This Repo is going to help you guide you through your first PR (Pull Request).
 
-I've aslo been trying to find a repo where I can contribute and share my code with others, this repo is meant to help you first hand on what to do and how. 
+I've also been trying to find a repo where I can contribute and share my code with others, this repo is meant to help you first hand on what to do and how. 
 
 This also assumes that you already know how to create a pull request if you don't no worries this [guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) can show you how.
 
@@ -13,10 +13,10 @@ Well Let's get started... This one is easy...fix the typos :)
 
 ## Welcome to my project! This is a sample README file that demonstrates how to properly format a README file.
 
-### INnstallation
+### Installation
 To install this project, simply clone the repository and run npm install.
 
-###Usage 
+### Usage 
 
 To use this project, run npm start and follow the on-screen prompts.
 
