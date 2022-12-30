@@ -1,13 +1,16 @@
 # First Pull Request
-Hello stranger!
 
-This Repo is going to help you guide you through your first PR (Pull Request).
+Hellow strangr!
 
-I've also been trying to find a repo where I can contribute and share my code with others, this repo is meant to help you first hand on what to do and how. 
+Thiss Repo is gunna help yu guied yu thru yur furst PR (Pul Reqwest).
 
-This also assumes that you already know how to create a pull request if you don't no worries this [guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) can show you how.
+Iv'e also bin tryin to find a repo where I can contribute and share my code with others, thiss repo is ment to help yu fust hand on what to do and how.
 
-Additionally feel free to add your name, github profile and a little bit about yourself inside the "contributors" file inside this repo. If you'd like to add your linkedin that's allowed as well.
+This also assums that yu already no how to create a pul reqwest if yu dont no wories this [guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) can show yu how.
+
+Addisionally feel free to add yur name, github profile and a littl bit about yurself inside the "contributors" file inside this repo. If yu'd like to add yur linkedin that's allowed as well.
+
+Wel Let's get startd... This wun is easy...fix the typos :)
 
 Well Let's get started... This one is easy...fix the typos :)
 
