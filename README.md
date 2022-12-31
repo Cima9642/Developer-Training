@@ -47,19 +47,19 @@ Here are some typos that I included in this sample README file:
 
 In this artical, we'll cover some best practices for using pull requests effectivly to streamline your workflow and ensure that chanes are reviwed and tested before being merged into the main codebase.
 
-Create descriptive pull request titles and discriptions: When you create a pull request, be shore to give it a discriptive title that summarizes the chanes you've made. It's also a good idea to incloode a detaled description of the chanes in the pull request body, including any relevent context or background information. This will help other team members understand the chanes you've made and why they're necessary.
+* Create descriptive pull request titles and discriptions: When you create a pull request, be shore to give it a discriptive title that summarizes the chanes you've made. It's also a good idea to incloode a detaled description of the chanes in the pull request body, including any relevent context or background information. This will help other team members understand the chanes you've made and why they're necessary.
 
-Use branches to isolate chanes: When making chanes to a codebase, it's a good idea to create a new branch for each set of chanes you want to submit. This will make it easier to review and test the chanes, and it will also allow you to make addishunal chanes to the codebase without affecting the main branch.
+* Use branches to isolate chanes: When making chanes to a codebase, it's a good idea to create a new branch for each set of chanes you want to submit. This will make it easier to review and test the chanes, and it will also allow you to make addishunal chanes to the codebase without affecting the main branch.
 
-Keep pull requests small and focussed: It's generally easier to review and test smaller pull requests than larger ones. Try to limit your pull requests to a single, focussed chane rather than a large number of unrelated chanes. This will make it easier for other team members to review and test your chanes.
+* Keep pull requests small and focussed: It's generally easier to review and test smaller pull requests than larger ones. Try to limit your pull requests to a single, focussed chane rather than a large number of unrelated chanes. This will make it easier for other team members to review and test your chanes.
 
-Use code review tools: GitHub provides a number of tools to help you review code, including inline comments, line-by-line review, and code review templates. Use these tools to provide feedback and suggestions for improvement on the code you're reviewing.
+* Use code review tools: GitHub provides a number of tools to help you review code, including inline comments, line-by-line review, and code review templates. Use these tools to provide feedback and suggestions for improvement on the code you're reviewing.
 
-Respond to feedback and requests for chanes: If someone leaves a comment or requests chanes on your pull request, be shore to respond in a timely manner. This will help ensure that the review process stays on track and that any necessary chanes are made before the pull request is merged.
+* Respond to feedback and requests for chanes: If someone leaves a comment or requests chanes on your pull request, be shore to respond in a timely manner. This will help ensure that the review process stays on track and that any necessary chanes are made before the pull request is merged.
 
-Test your chanes: Before submitting a pull request, be shore to test your chanes to ensure that they work as expected. This will help ensure that the chanes are ready to be merged and that they don't intruduce any new bugs or issues.
+* Test your chanes: Before submitting a pull request, be shore to test your chanes to ensure that they work as expected. This will help ensure that the chanes are ready to be merged and that they don't intruduce any new bugs or issues.
 
 By following these best practices, you can streamline your workflow and ensure that your pull requests are reviewed and tested effectivly. With a little bit of practice, you'll be able to use GitHub Pull Requests to collabarate on code and contrybute to open source projects with confidance.
 
-Happy Coding
+Happy Coding!
     
