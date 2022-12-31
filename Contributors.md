@@ -13,7 +13,8 @@ I am a passionate Frontend Developer from Texas who loves to try new things and 
 [NitkarshChourasia](https://github.com/NitkarshChourasia)  
 [NitkarshChourasia](https://nitkarshchourasia.github.io/)  
 
+---
 
-
+[Rishav Raj](https://github.com/Rishav1707)
 
 ---
