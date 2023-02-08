@@ -32,14 +32,14 @@ This project adheres to the [Contributor Covenant](https://www.contributor-coven
 ### Clues
 Here are some typos that I included in this sample README file:
  
-    "To install this project, simply clone the repository and run npm install." (should be "simply clone the repository and run npm install")
-    "To use this project, run npm start and follow the on-screen prompts." (should be "To use this project, run npm start and follow the on-screen prompts.")
-    "If you'd like to contribute to this project, please follow these guidelines:" (should be "If you'd like to contribute to this project, please follow these guidelines:")
-    "Please note that all contributions must follow our code of conduct." (should be "Please note that all contributions must follow our code of conduct.")
-    "This project adheres to the Contributor Covenant." (should be "This project adheres to the Contributor Covenant.")
-    "Please report unacceptable behaviour to email@example.com." (should be "Please report unacceptable behaviour to email@example.com.")
-    "This project was created by Your Name." (should be "This project was created by Your Name.")
-    "This project is licensed under the MIT License." (should be "This project is licensed under the MIT License.")
+    "To isntall this project, simply cloan the repository and run npm intall."
+"To use this projet, run npm strt and follow the on-screen promts."
+"If you'd like to contribte to this project, please follow these guideliness:"
+"Pleae note that all contribtions must follow our code of condut."
+"This projet adheres to the Contributor Covnent."
+"Pleae report unacceptble behaviour to email@example.com."
+"This projet was created by Your Nmae."
+"This project is licenesed under the MIT Licence."
 
 ---
 
