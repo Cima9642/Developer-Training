@@ -2,18 +2,12 @@
 
 Please add your name or username with your github profile. Feel free to leave your LinkedIn if you'd like.
 
-## Contributors:
+### Example
+`- [Gihub](https://github.com/username)| [LinkedIn](https://www.linkedin.com/in/yourusername)<br>`
 
-[Cima9642](https://github.com/Cima9642) 
-[LinkedIn](https://www.linkedin.com/in/carlosfxv/)<br>
+## Contributors
 
----
-
-[NitkarshChourasia](https://github.com/NitkarshChourasia)  
-[NitkarshChourasia](https://nitkarshchourasia.github.io/)  
-
----
-
-[Rishav Raj](https://github.com/Rishav1707)
-
----
+- [Cima9642](https://github.com/Cima9642)| [LinkedIn](https://www.linkedin.com/in/carlosfxv/)<br>
+- [NitkarshChourasia](https://github.com/NitkarshChourasia)  
+- [NitkarshChourasia](https://nitkarshchourasia.github.io/)  
+- [Rishav Raj](https://github.com/Rishav1707)
