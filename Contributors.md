@@ -1,6 +1,6 @@
 # Contributors List
 
-Please add your name or username with your github profile and a little bit about yourself. Feel free to leave your LinkedIn if you'd like.
+Please add your name or username with your github profile. Feel free to leave your LinkedIn if you'd like.
 
 ## Contributors:
 
