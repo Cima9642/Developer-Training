@@ -1,6 +1,6 @@
 # Contributors List
 
-Please add your name or username with your github profile. Feel free to leave your LinkedIn if you'd like.
+Please add your name or username with your github profile following the example below. Feel free to leave your LinkedIn if you'd like.
 
 ### Example
 `- [Gihub](https://github.com/username)| [LinkedIn](https://www.linkedin.com/in/yourusername)<br>`
