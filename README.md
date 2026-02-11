@@ -1,13 +1,13 @@
 # First Pull Request - Learn by Doing! 🎯
 
-Welcom! This repository is designed to help you make your very first pull request (PR) in a safe, beginer-friendly enviroment.
+Welcome! This repository is designed to help you make your very first pull request (PR) in a safe, beginner-friendly environment.
 
 ## What You’ll Learn
 
-- How to fork a reposotory
+- How to fork a repository
 - How to clone your fork locally
 - How to create a branch
-- How to make changes and comit them
+- How to make changes and commit them
 - How to push changes to GitHub
 - How to create a pull request
 
@@ -19,19 +19,19 @@ This README contains **intentional typos**. Your task is to:
 1. Submit your fixes via a pull request
 1. (Optional) Add yourself to the `CONTRIBUTORS.md` file
 
-Don’t worry - you can’t break anything! This is a practise repo designed for lerning.
+Don’t worry - you can’t break anything! This is a practice repo designed for learning.
 
 ## Prerequisites
 
 - A GitHub account ([sign up here](https://github.com/join) if you don’t have one)
-- Git installed on your computor ([installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
-- That’s it! No other sofware needed.
+- Git installed on your computer ([installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
+- That’s it! No other software needed.
 
 ## Step-by-Step Guide
 
-### 1. Fork This Repositry
+### 1. Fork This Repository
 
-Click the “Fork” button at the top right of this page. This creates your own copy of the repositry.
+Click the “Fork” button at the top right of this page. This creates your own copy of the repository.
 
 ### 2. Clone Your Fork
 
@@ -40,7 +40,7 @@ git clone https://github.com/YOUR-USERNAME/first-pull-request.git
 cd first-pull-request
 ```
 
-Replace `YOUR-USERNAME` with your actual GitHub usename.
+Replace `YOUR-USERNAME` with your actual GitHub username.
 
 ### 3. Create a New Branch
 
@@ -48,11 +48,11 @@ Replace `YOUR-USERNAME` with your actual GitHub usename.
 git checkout -b fix-typos
 ```
 
-You can name your branch anything discriptive like `fix-readme-typos` or `your-name-typo-fixes`.
+You can name your branch anything descriptive like `fix-readme-typos` or `your-name-typo-fixes`.
 
 ### 4. Make Your Changes
 
-Open `README.md` in your favorite text editor and fix the typos you find. Look carefully - there are typos thoughout this document!
+Open `README.md` in your favorite text editor and fix the typos you find. Look carefully - there are typos throughout this document!
 
 ### 5. Commit Your Changes
 
@@ -61,7 +61,7 @@ git add README.md
 git commit -m "Fix typos in README.md"
 ```
 
-### 6. Push to GitHubб
+### 6. Push to GitHub
 
 ```bash
 git push origin fix-typos
@@ -75,50 +75,50 @@ git push origin fix-typos
 1. Describe what you fixed
 1. Click “Create pull request”
 
-Congradulations! You’ve just made your first pull request! 🎉
+Congratulations! You’ve just made your first pull request! 🎉
 
 ## Need Help?
 
-- **New to Git?** Check out [GitHub’s Git Hanbook](https://guides.github.com/introduction/git-handbook/)
+- **New to Git?** Check out [GitHub’s Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - **New to Pull Requests?** Read [GitHub’s PR Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 - **Stuck?** Open an issue and we’ll help you out!
 
-## (Optional) Add Yourself as a Contributer
+## (Optional) Add Yourself as a Contributor
 
-After fixing typos, you’re welcome to add your informaton to `CONTRIBUTORS.md`:
+After fixing typos, you’re welcome to add your information to `CONTRIBUTORS.md`:
 
 ```markdown
 ### Your Name
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile) (optional)
-- About: A sentance or two about yourself!
+- About: A sentence or two about yourself!
 ```
 
 -----
 
 ## About Pull Requests
 
-### GitHub Pull Requests (PR) are a vytal tool for collabarating on code and contrybuting to open source projects.
+### GitHub Pull Requests (PR) are a vital tool for collaborating on code and contributing to open source projects.
 
-In this artical, we’ll cover some best practices for using pull requests effectivly to streamline your workflow and ensure that chanes are reviwed and tested before being merged into the main codebase.
+In this article, we’ll cover some best practices for using pull requests effectively to streamline your workflow and ensure that changes are reviewed and tested before being merged into the main codebase.
 
-**Best Practises:**
+**Best Practices:**
 
-- **Create descriptive pull request titles and discriptions:** When you create a pull request, be shore to give it a discriptive title that summarizes the chanes you’ve made. It’s also a good idea to incloode a detaled description of the chanes in the pull request body, including any relevent context or background information. This will help other team members understand the chanes you’ve made and why they’re necesary.
-- **Use branches to isolate chanes:** When making chanes to a codebase, it’s a good idea to create a new branch for each set of chanes you want to submit. This will make it easier to review and test the chanes, and it will also allow you to make addishunal chanes to the codebase without affecting the main branch.
-- **Keep pull requests small and focussed:** It’s generaly easier to review and test smaller pull requests than larger ones. Try to limit your pull requests to a single, focussed chane rather than a large number of unrelated chanes. This will make it easier for other team members to review and test your chanes.
-- **Use code review tools:** GitHub provides a number of tools to help you review code, including inline comments, line-by-line review, and code review templats. Use these tools to provide feedback and sugestions for improvement on the code you’re reviewing.
-- **Respond to feedback and requests for chanes:** If someone leaves a comment or requests chanes on your pull request, be shore to respond in a timley manner. This will help ensure that the review process stays on track and that any necesary chanes are made before the pull request is merged.
-- **Test your chanes:** Before submiting a pull request, be shore to test your chanes to ensure that they work as expected. This will help ensure that the chanes are ready to be merged and that they don’t intruduce any new bugs or issues.
+- **Create descriptive pull request titles and descriptions:** When you create a pull request, be sure to give it a descriptive title that summarizes the changes you’ve made. It’s also a good idea to include a detailed description of the changes in the pull request body, including any relevant context or background information. This will help other team members understand the changes you’ve made and why they’re necessary.
+- **Use branches to isolate changes:** When making changes to a codebase, it’s a good idea to create a new branch for each set of changes you want to submit. This will make it easier to review and test the changes, and it will also allow you to make additional changes to the codebase without affecting the main branch.
+- **Keep pull requests small and focused:** It’s generally easier to review and test smaller pull requests than larger ones. Try to limit your pull requests to a single, focused change rather than a large number of unrelated changes. This will make it easier for other team members to review and test your changes.
+- **Use code review tools:** GitHub provides a number of tools to help you review code, including inline comments, line-by-line review, and code review templates. Use these tools to provide feedback and suggestions for improvement on the code you’re reviewing.
+- **Respond to feedback and requests for changes:** If someone leaves a comment or requests changes on your pull request, be sure to respond in a timely manner. This will help ensure that the review process stays on track and that any necessary changes are made before the pull request is merged.
+- **Test your changes:** Before submitting a pull request, be sure to test your changes to ensure that they work as expected. This will help ensure that the changes are ready to be merged and that they don’t introduce any new bugs or issues.
 
-By following these best practices, you can streamline your workflow and ensure that your pull requests are reviewed and tested effectivly. With a little bit of practise, you’ll be able to use GitHub Pull Requests to collabarate on code and contrybute to open source projects with confidance.
+By following these best practices, you can streamline your workflow and ensure that your pull requests are reviewed and tested effectively. With a little bit of practice, you’ll be able to use GitHub Pull Requests to collaborate on code and contribute to open source projects with confidence.
 
 ## Code of Conduct
 
-This project adhears to the [Contributor Covenant](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [Cima9642](mailto:carlosfxv@gmail.com).
+This project adheres to the [Contributor Covenant](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Cima9642](mailto:carlosfxv@gmail.com).
 
 -----
 
 Happy Coding! 🚀
 
-**Remember:** Everyone started as a beginer. This is your safe space to learn and make misstakes!
+**Remember:** Everyone started as a beginner. This is your safe space to learn and make mistakes!
