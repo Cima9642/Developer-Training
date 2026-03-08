@@ -1,12 +1,12 @@
 # First Pull Request - Learn by Doing! 🎯
 
-Welcome! This repository is designed to help you make your very first pull request (PR) in an safe, beginner-friendly environment.
+Welcome! This repository is designed to help you make your very first pull request (PR) in a safe, beginner-friendly environment.
 
 ## What You’ll Learn
 
 - How to fork a repository
 - How to clone your fork locally
-- How to crea a branch
+- How to create a branch
 - How to make changes and commit them
 - How to push changes to GitHub
 - How to create a pull request
@@ -40,7 +40,7 @@ git clone https://github.com/YOUR-USERNAME/first-pull-request.git
 cd first-pull-request
 ```
 
-Replace `YOUR-USERNAME` with your aual GitHub username.
+Replace `YOUR-USERNAME` with your actual GitHub username.
 
 ### 3. Create a New Branch
 
@@ -81,7 +81,7 @@ Congratulations! You’ve just made your first pull request! 🎉
 
 - **New to Git?** Check out [GitHub’s Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - **New to Pull Requests?** Read [GitHub’s PR Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-- **Stuck?** Open an issue and we’ll help yu out!
+- **Stuck?** Open an issue and we’ll help you out!
 
 ## (Optional) Add Yourself as a Contributor
 
@@ -108,14 +108,14 @@ In this article, we’ll cover some best practices for using pull requests effec
 - **Use branches to isolate changes:** When making changes to a codebase, it’s a good idea to create a new branch for each set of changes you want to submit. This will make it easier to review and test the changes, and it will also allow you to make additional changes to the codebase without affecting the main branch.
 - **Keep pull requests small and focused:** It’s generally easier to review and test smaller pull requests than larger ones. Try to limit your pull requests to a single, focused change rather than a large number of unrelated changes. This will make it easier for other team members to review and test your changes.
 - **Use code review tools:** GitHub provides a number of tools to help you review code, including inline comments, line-by-line review, and code review templates. Use these tools to provide feedback and suggestions for improvement on the code you’re reviewing.
-- **Respond to feedback and requests for changes:** If someone leaves ga comment or requests changes on your pull request, be sure to respond in a timely manner. This will help ensure that the review process stays on track and that any necessary changes are made before the pull request is merged.
+- **Respond to feedback and requests for changes:** If someone leaves a comment or requests changes on your pull request, be sure to respond in a timely manner. This will help ensure that the review process stays on track and that any necessary changes are made before the pull request is merged.
 - **Test your changes:** Before submitting a pull request, be sure to test your changes to ensure that they work as expected. This will help ensure that the changes are ready to be merged and that they don’t introduce any new bugs or issues.
 
 By following these best practices, you can streamline your workflow and ensure that your pull requests are reviewed and tested effectively. With a little bit of practice, you’ll be able to use GitHub Pull Requests to collaborate on code and contribute to open source projects with confidence.
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant](https://www.contributor-covenant.org/). By participating, you are expected to uphold tho code. Please report unacceptable behavior to [Cima9642](mailto:carlosfxv@gmail.com).
+This project adheres to the [Contributor Covenant](https://www.contributor-covenant.org/). By participating, you are expected to uphold the code. Please report unacceptable behavior to [Cima9642](mailto:carlosfxv@gmail.com).
 
 -----
 
